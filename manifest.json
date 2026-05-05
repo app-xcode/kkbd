@@ -1,0 +1,24 @@
+{
+  "short_name": "KKBD",
+  "name": "KKBD",
+  "description": "Kerukunan Keluarga Bima-Dompu (KKBD)",
+  "icons": [
+    {
+      "src": "/kkbd/icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/kkbd/512.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/kkbd/",
+  "display": "standalone",
+  "theme_color": "#15133c",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "scope": "/kkbd/"
+}
